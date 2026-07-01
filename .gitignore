@@ -1,0 +1,10 @@
+.venv/
+.venv-eval/
+__pycache__/
+*.pyc
+.env
+.chroma/
+evaulation/.chroma/
+.idea/
+.DS_Store
+eval_results.csv
